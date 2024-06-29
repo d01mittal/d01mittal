@@ -1,11 +1,5 @@
 <h3 align="left">Hi 👋! My name is Divyanshu Mittal and I'm currently a master's student in AI & ML from IIIT Lucknow, passionate about using LLMs to solve real-world problems, with a knack for coding.</h3>
 
-<br>👨‍💻 Seeking AI, Machine Learning, or Data Analyst roles.<br>📫 How to reach me: divyanshu2001mittal@gmail.com<br>⚡ Fun fact: Artificial Intelligence can now generate entirely new pieces of music, art, and literature. AI models like OpenAI's GPT-4, DeepArt, and AIVA are capable of creating original compositions, paintings, and even short stories or poems. These creations can sometimes be so sophisticated that they are indistinguishable from works created by humans, blurring the line between human creativity and machine-generated art.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Divyanshu Mittal) 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=d01mittal&icon=5&color=11)](https://visitcount.itsvg.in)
 
@@ -108,6 +102,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=d01mittal&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Divyanshu Mittal) 
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
