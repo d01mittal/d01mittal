@@ -109,10 +109,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=d01mittal&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/d01mittal/d01mittal/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
