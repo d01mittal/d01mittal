@@ -1,6 +1,6 @@
 ![logo](https://github.com/d01mittal/d01mittal/blob/main/Intro.gif)
 
-<h3 align="left">Hi 👋! My name is Divyanshu Mittal and I'm currently a master's student in AI & ML from IIIT Lucknow, passionate about using LLMs to solve real-world problems, with a knack for coding.</h3>
+<h3 align="left">Hello 👋! My name is Divyanshu Mittal and I'm currently a master's student in AI & ML from IIIT Lucknow, passionate about using LLMs to solve real-world problems, with a knack for coding.</h3>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=d01mittal&icon=5&color=11)](https://visitcount.itsvg.in)
