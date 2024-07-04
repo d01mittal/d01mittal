@@ -106,7 +106,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=d01mittal&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Divyanshu Mittal) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/divyanshu-mittal-4b652228a) 
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
