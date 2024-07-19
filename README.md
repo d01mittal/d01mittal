@@ -6,7 +6,7 @@
 [![](https://visitcount.itsvg.in/api?id=d01mittal&icon=5&color=11)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=d01mittal&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=d01mittal&theme=radical)](https://github.com/d01mittal/github-profile-trophy)
 
 ###
 
