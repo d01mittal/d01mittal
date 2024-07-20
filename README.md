@@ -2,7 +2,6 @@
 
 # Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Divyanshu Mittal and I'm currently a master's student in AI & ML from IIIT Lucknow, passionate about using LLMs to solve real-world problems, with a knack for coding.
 
----
 [![](https://visitcount.itsvg.in/api?id=d01mittal&icon=5&color=11)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
