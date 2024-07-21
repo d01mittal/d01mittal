@@ -6,7 +6,7 @@
 
 </div>
 
-# Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Divyanshu Mittal and I'm currently a master's student in AI & ML from IIIT Lucknow, passionate about using LLMs to solve real-world problems, with a knack for coding.
+# Hello !<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Divyanshu Mittal and I'm currently a master's student in AI & ML from IIIT Lucknow, passionate about using LLMs to solve real-world problems, with a knack for coding.
 
 [![](https://visitcount.itsvg.in/api?id=d01mittal&icon=5&color=11)](https://visitcount.itsvg.in)
 
@@ -109,6 +109,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=d01mittal&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
@@ -117,4 +118,9 @@
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
