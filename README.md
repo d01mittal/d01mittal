@@ -1,5 +1,3 @@
-![logo](https://github.com/d01mittal/d01mittal/blob/main/Intro.gif)
-
 <div id="header" align="center">
 
   <img src="./github.gif" width="100"/>
