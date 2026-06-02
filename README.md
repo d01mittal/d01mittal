@@ -1,3 +1,9 @@
+<div id="header" align="center">
+
+  <img src="./github.gif" width="100"/>
+
+</div>
+
 <h2 align="center">Divyanshu Mittal</h2>
 <div align="center"> 
  
@@ -464,10 +470,6 @@ Seaborn
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=d01mittal&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
