@@ -7,7 +7,7 @@
 <h2 align="center">Divyanshu Mittal</h2>
 <div align="center"> 
  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1200&color=6366F1&center=true&vCenter=true&width=1000&lines=Building+Enterprise+AI;Data+Scientist+AI+Engineer+%7C+GenAI;Agentic+AI+%7C+LLMOps+%7C+AWS+Terraform;Building+Production-Grade+Intelligent+Systems" alt="Typing SVG" /> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1200&color=6366F1&center=true&vCenter=true&width=1000&lines=Building+Enterprise+AI;Data+Scientist+%7C+AI+Engineer;Agentic+AI+%7C+LLMOps+%7C+AWS+%7C+Terraform;Building+Production-Grade+Intelligent+Systems" alt="Typing SVG" /> 
 
 <!-- <img src="party-github.gif" width="10%" alt="Anime Cyber Banner"/> -->
 
