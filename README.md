@@ -104,7 +104,7 @@ Resume
 <tr>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="50"/><br>
+<img src="https://img.icons8.com/ios/50/FFFFFF/chatgpt.png" width="50"/><br>
 OpenAI
 </td>
   
