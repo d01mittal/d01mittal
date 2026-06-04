@@ -41,8 +41,8 @@ retrieval intelligence platforms and scalable cloud-native AI infrastructure.
 <tr>
 
 <td align="center" width="120">
-<a href="www.linkedin.com/in/divyanshu-mittal-4b652228a">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/><br>
+<a href="https://www.linkedin.com/in/divyanshu-mittal-4b652228a">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50"/><br>
 LinkedIn
 </a>
 </td>
