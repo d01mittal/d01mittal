@@ -212,6 +212,11 @@ Hybrid Search
 <img src="https://cdn-icons-png.flaticon.com/512/4616/4616734.png" width="50"/><br>
 Semantic Search
 </td>
+
+<td align="center" width="120">
+<img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=FFFFFF" width="50"/><br>
+OCR
+</td>
 </tr>
 </table>
 <!-- <p>
@@ -268,6 +273,11 @@ Docker
 <td align="center" width="120">
 <img src="https://cdn.simpleicons.org/fastapi/009688" width="50"/><br>
 FastAPI
+</td>
+
+<td align="center" width="120">
+<img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width="50"/><br>
+Docker
 </td>
 
 <td align="center" width="120">
