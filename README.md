@@ -479,8 +479,7 @@ Seaborn
 ## 📊 GitHub Analytics
 
 <p align="center">
-<!-- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ManaswiniGupta&show_icons=true&theme=tokyonight&hide_border=true"/> -->
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=d01mittal&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://streak-stats.demolab.com/?user=d01mittal&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
