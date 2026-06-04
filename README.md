@@ -479,8 +479,7 @@ Seaborn
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=d01mittal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d01mittal&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=d01mittal&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
