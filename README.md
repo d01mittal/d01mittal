@@ -308,7 +308,7 @@ MLflow
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="50"/><br>
+<img src="https://img.icons8.com/dotty/80/FFFFFF/system-task.png" width="50"/><br>
 Monitoring
 </td>
 
@@ -392,7 +392,7 @@ GitHub
 <table align="center">
 <tr>
 <td align="center" width="120"><img src="https://cdn.simpleicons.org/python/3776AB" width="50"/><br>Python</td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/openjdk/007396" width="50"/><br>C++</td>
+<td align="center" width="120"><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="50"/><br>Java</td>
 <!-- <td align="center" width="120"><img src="https://cdn.simpleicons.org/c/A8B9CC" width="50"/><br>C</td> -->
 <!-- <td align="center" width="120"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50"/><br>JavaScript</td> -->
 
