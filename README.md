@@ -204,7 +204,7 @@ FAISS
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="50"/><br>
+<img src="https://img.icons8.com/ios/50/FFFFFF/globe--v1.png" width="50"/><br>
 Hybrid Search
 </td>
 
