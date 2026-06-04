@@ -47,11 +47,11 @@ LinkedIn
 </a>
 </td>
 
-<td align="center" width="120">
+<!-- <td align="center" width="120">
 <a href="https://github.com/d01mittal">
 <img src="https://cdn.simpleicons.org/github/FFFFFF" width="50"/><br>
 GitHub
-</td>
+</td> -->
 
 
 <td align="center" width="120">
