@@ -214,7 +214,7 @@ Semantic Search
 </td>
 
 <td align="center" width="120">
-<img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=FFFFFF" width="50"/><br>
+<img src="https://img.icons8.com/?size=100&id=uADHCiBEKcEj&format=png&color=FFFFFF" width="50"/><br>
 OCR
 </td>
 </tr>
