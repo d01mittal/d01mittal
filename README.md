@@ -273,10 +273,10 @@ Flask
 PostgreSQL
 </td>
 
-<td align="center" width="120">
+<!-- <td align="center" width="120">
 <img src="https://cdn.simpleicons.org/mongodb/47A248" width="50"/><br>
 MongoDB
-</td>
+</td> -->
 
 <td align="center" width="120">
 <img src="https://cdn.simpleicons.org/python/3776AB" width="50"/><br>
@@ -385,9 +385,9 @@ GitHub
 <table align="center">
 <tr>
 <td align="center" width="120"><img src="https://cdn.simpleicons.org/python/3776AB" width="50"/><br>Python</td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="50"/><br>C++</td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/c/A8B9CC" width="50"/><br>C</td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50"/><br>JavaScript</td>
+<td align="center" width="120"><img src="https://cdn.simpleicons.org/openjdk/007396" width="50"/><br>C++</td>
+<!-- <td align="center" width="120"><img src="https://cdn.simpleicons.org/c/A8B9CC" width="50"/><br>C</td> -->
+<!-- <td align="center" width="120"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50"/><br>JavaScript</td> -->
 
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>
