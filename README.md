@@ -76,6 +76,13 @@ Kaggle
 </td>
 
 <td align="center" width="120">
+<a href="https://leetcode.com/u/Light_Shot/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50"/><br>
+LeetCode
+</a>
+</td>
+
+<td align="center" width="120">
 <a href="https://drive.google.com/file/d/1CNVY3lWXrDjfmUAu8onsp23pbA8CrWNz/view">
 <img src="https://cdn.simpleicons.org/libreofficewriter/BBDDE5" width="50"/><br>
 Resume
@@ -471,11 +478,11 @@ Seaborn
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/divyanshu-mittal-4b652228a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your_username" height="30" width="40" /></a>
     <a href="https://www.kaggle.com/divu2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="your_username" height="30" width="40" /></a>
-    <a href="https://leetcode.com/u/Light_Shot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="your_username" height="30" width="40" /></a>
+    <a href="https://leetcode.com/u/Light_Shot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="your_username" height="30" width="40" /></a> -->
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
