@@ -256,7 +256,7 @@ Terraform
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="50"/><br>
+<img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width="50"/><br>
 Docker
 </td>
 
