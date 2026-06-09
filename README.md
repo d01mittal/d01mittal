@@ -119,7 +119,7 @@ Claude
 </td>
 
 <td align="center" width="120">
-<img src="" width="50"/><br>
+<img src="claudecode-color.svg" width="50"/><br>
 Claude Code
 </td>
 
