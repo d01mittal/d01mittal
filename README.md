@@ -119,9 +119,10 @@ Claude
 </td>
 
 <td align="center" width="120">
-<img src="https://simpleicons.org/icons/claudecode.svg" width="50"/><br>
+<img src="" width="50"/><br>
 Claude Code
 </td>
+
 
 <td align="center" width="120">
 <img src="https://cdn.simpleicons.org/lightning/F55036" width="50"/><br>
