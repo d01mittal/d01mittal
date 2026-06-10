@@ -277,7 +277,7 @@ Docker
 <table align="center">
 <tr>
 <td align="center" width="120">
-<img src="https://cdn.simpleicons.org/fastapi/009688" width="50"/><br>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" width="50"/><br>
 FastAPI
 </td>
 
@@ -287,7 +287,7 @@ Docker
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.simpleicons.org/flask/FFFFFF" width="50"/><br>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" width="50"/><br>
 Flask
 </td>
 
